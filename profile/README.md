@@ -1,12 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="./DoRunDoDun.png" alt="DoRunDoDun Logo" width="400"/>
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Project Team**
+
+두런두런 모여, 막힘없이 실행하다.
+
+*Do run, Do done: Talk together, Achieve together.*
+
+</div>
+
+<div align="right">
+
+![Since](https://img.shields.io/badge/Since-2026.02-4a90e2?style=flat-square)
+![Members](https://img.shields.io/badge/Members-3-4a90e2?style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=DoRunDoDun&label=visits&countColor=%234a90e2&style=flat-square)
+</div>

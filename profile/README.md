@@ -15,6 +15,6 @@
 <div align="right">
 
 ![Since](https://img.shields.io/badge/Since-2026.02-4a90e2?style=flat-square)
-![Members](https://img.shields.io/badge/Members-3-4a90e2?style=flat-square)
+![Members](https://img.shields.io/badge/Members-2-4a90e2?style=flat-square)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=DoRunDoDun&label=visits&countColor=%234a90e2&style=flat-square)
 </div>
